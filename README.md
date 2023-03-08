@@ -1,2 +1,2 @@
-# streamduck-sharp
-Hybrid C# and Rust rewrite of Streamduck daemon
+# streamduck-java
+Hybrid Java and Rust rewrite of Streamduck daemon
